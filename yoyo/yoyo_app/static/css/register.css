@@ -141,3 +141,20 @@ grid-column:span 1;
 }
 
 }
+
+.message{
+    padding:10px;
+    margin-bottom:15px;
+    border-radius:5px;
+    font-weight:bold;
+}
+
+.success{
+    background:#d4edda;
+    color:#155724;
+}
+
+.error{
+    background:#f8d7da;
+    color:#721c24;
+}
